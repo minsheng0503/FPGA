@@ -30,6 +30,8 @@
 <!-- /TOC -->
 
 ## 数电知识点
+[Digital IC Design Note 成大資工陳培殷Ph.D](https://hackmd.io/@mwchangworkin/HkYKVzXx2)
+
 [CMOS Example lnv(A+BC)C+D](./src/vedio/CMOS%20Example%20[Inv(A+BC)C+D].mp4)
 
 [CMOS Digital Logic Circuits](http://fourier.eng.hmc.edu/e84/lectures/ch4/node15.html)
